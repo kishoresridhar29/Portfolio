@@ -6,7 +6,7 @@
   
 <img src="images/harrison.png" height=300></p>
   
-Hi, my name is Harrison Jansma.
+Hi, my name is Kishore Sridhar.
 
 
 
